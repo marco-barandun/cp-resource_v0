@@ -1,0 +1,34 @@
+title:              Ecology
+#email:              your-email@example.com
+description:        My personal website
+author:             Marco Barandun
+baseurl:            "/ecology"
+url:                "https://marco-barandun.github.io"
+
+# Social Profiles
+twitter_username:   
+github_username:    
+facebook_username:  
+instagram_username:  
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+highlighter:        rouge
+
+# List of collections (multiple post types)
+collections:
+  expeditions:
+    output: true
+    permalink: /expeditions/:name
+  photo-gallery:
