@@ -15,4 +15,4 @@ Etymologically, the species name indicates that the pitchers of this species hav
 ## Biogeography
 The biogeography of this species is interesting, in fact the species is present in two distinct geographic ranges, one being roughly eastern Texas and western Louisiana while the second encompasses eastern Louisiana, Mississippi and Alabama. The western group is isolated from other Sarracenia species and hybrids with other species can be excluded, i.e. those populations can be considered pure bred S. alata.
 
-<iframe src="https://marco-barandun.github.io/cp-resource/expeditions/assets/maps/Sarracenia_alata.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="https://marco-barandun.github.io/cp-resource/sarracenia/assets/maps/Sarracenia_alata.html" height="600px" width="100%" style="border:none;"></iframe>

@@ -16,4 +16,4 @@ In latin *flavum* means "yellow", indicating the Sarracenia with the yellow flow
 ## Biogeography
 This species has a rather large range, being present from all the way from Alabama to Virginia, with some populations in mountain regions such as Jackson Co., North Carolina.
 
-<iframe src="https://marco-barandun.github.io/cp-resource/expeditions/assets/maps/Sarracenia_flava.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="https://marco-barandun.github.io/cp-resource/sarracenia/assets/maps/Sarracenia_flava.html" height="600px" width="100%" style="border:none;"></iframe>
