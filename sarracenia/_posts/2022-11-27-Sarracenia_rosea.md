@@ -2,8 +2,8 @@
 layout: post
 title: Sarracenia alata
 description: "The story description text goes here"
-category: expeditions
-background: '/expeditions/assets/images/bg-ecuador.png'
+category: sarracenia
+background: '/sarracenia/assets/images/bg-ecuador.png'
 
 ---
 

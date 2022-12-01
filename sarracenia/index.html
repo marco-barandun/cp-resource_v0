@@ -2,13 +2,13 @@
 layout: page
 title: Expeditions
 description: Blog of an ecologist exploring the world.
-background: '/expeditions/assets/images/bg-expeditions.jpg'
+background: '/sarracenia/assets/images/bg-expeditions.jpg'
 ---
 
 <p>Here you can find listed the blog posts about my expeditions. Enjoy!</p>
 
 {% for post in site.posts %}
-{%- if post.category == "expeditions" -%}
+{%- if post.category == "sarracenia" -%}
 
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
