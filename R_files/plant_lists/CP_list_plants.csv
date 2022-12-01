@@ -1,0 +1,39 @@
+﻿code,genus,species,subspecies,variety,location,county,state,country,supplyer,old_code,number,year,comment
+SARALA001,Sarracenia,alata,,?,,,,,sarracenia.cz,,1,2014,
+SARALA003,Sarracenia,alata,,,,,,,GFP - Simon Ehrenmann,,3,2020,
+SARALA002,Sarracenia,alata,,,,,,,Matthias,,2,2020,
+SARFLA007,Sarracenia,flava,,atropurpurea,,Santa Rosa,Florida,United States,Matthias,MKF27C,7,2020,
+SARFLA004,Sarracenia,flava,,,Shallotte,Brunswick,North Carolina,United States,GFP - Simon Ehrenmann,,4,2020,
+SARFLA005,Sarracenia,flava,,,,Sussex,North Carolina,United States,GFP - Simon Ehrenmann,,5,2020,
+SARFLA001,Sarracenia,flava,,rugelii,,,,,sarracenia.cz,,1,2014,
+SARFLA002,Sarracenia,flava,,,,,,,Matthias,,2,2020,
+SARFLA003,Sarracenia,flava,,,,,,,Matthias,,3,2020,red tube
+SARFLA,Sarracenia,flava,,cuprea,,,,,Ruedi Fürst,,,2022,
+SARFLA,Sarracenia,flava,,maxima,,,,,Ruedi Fürst,,,2022,
+SARLEU001,Sarracenia,leucophylla,,,,Santa Rosa,Florida,United States,Ruedi Fürst (ex. Urs Zimmermann),,1,2022,"Yellow River Marsch Reserve, FL"
+SARLEU000,Sarracenia,leucophylla,,,,,,,GFP - Simon Ehrenmann,,0,2020,"near Citronelle, Washington Co. AL"
+SARMIN001,Sarracenia,minor,okefenokensis,,,,,,sarracenia.cz,,1,2014,
+SARMIN001,Sarracenia,minor,,,,,,,GFP - Simon Ehrenmann,,1,2020,
+SARORE001,Sarracenia,oreophila,,,,,,,sarracenia.cz,,1,2014,
+SARORE003,Sarracenia,oreophila,,,,,,,GFP - Simon Ehrenmann,,3,2020,
+SARORE002,Sarracenia,oreophila,,,,,,,Matthias,,2,2020,
+SARPSI001,Sarracenia,psittacina,,,,,,,Ruedi Fürst,,1,2020,antocyanin free
+SARPSI002,Sarracenia,psittacina,,,Yellow River,Santa Rosa,,,Ruedi Fürst,,2,2020,red
+SARPSI003,Sarracenia,psittacina,,,,,Mississippi,United States,Oki,,3,2021,wild form
+SARPUR004,Sarracenia,purpurea,purpurea,,,Meilen,Zürich,Switzerland,Matthias,,4,2022,"Rüti, Giant"
+SARPUR003,Sarracenia,purpurea,,,,Riviera_Pays-d'Enhaut,Vaud,Switzerland,NA,,3,2022,Les Tenasses
+SARPUR001,Sarracenia,purpurea,venosa,,,,,,sarracenia.cz,,1,2014,
+SARPUR002,Sarracenia,purpurea,purpurea,,,,,,GFP - Simon Ehrenmann,,2,2020,
+SARROS001,Sarracenia,rosea,,,,,,,Oki,,1,2021,
+SARRUB002,Sarracenia,rubra,wherryi,,,Washington,Alabama,United States,Matthias,MKRW6,2,2020,"giant chatom, AL "
+,Sarracenia,rubra,alabamensis,,,Autauga,Alabama,United States,Matthias,,,2022,"red form, county guessed"
+,Sarracenia,rubra,jonesii,,,Greenville,South Carolina,United States,Matthias,,,2022,dark red rofm cersars head
+SARRUB001,Sarracenia,rubra,,,,,,,sarracenia.cz,,1,2014,
+SARRUB003,Sarracenia,rubra,gulfensis,,,,,,GFP - Simon Ehrenmann,,3,2020,
+SARXFA,Sarracenia,x farnhamii,,,,,,,Matthias,,,2020,(= rubra x leucophylla)
+SARXFL,Sarracenia,x flava x (flava x oreophila),,,,,,,sarracenia.cz,,,2014,or only flava?
+SARXLE,Sarracenia,x leucophylla x (leucophylla x oreophila) ,,,,,,,sarracenia.cz,,,2014,
+SARXMO,Sarracenia,x morrei,,,,,,,Matthias,,,2020,(= flava x leucophylla)
+SARXPU,Sarracenia,x purpurea,,,,,,,sarracenia.cz,,,2014,(purpurea x leucophylla)?
+SARXSW,Sarracenia,x swaniana,,,,,,,Matthias,,,2020,(= minor x purpurea)
+SARXWR,Sarracenia,x wrigleyana,,,,,,,Matthias,,,2020,(= psittacina x leucophylla)
