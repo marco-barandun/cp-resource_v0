@@ -1,0 +1,57 @@
+genus,species,subspecies,variety,country,state,county,source,comment
+Sarracenia,alata,,atrorubra,United States,Alabama,Washington,2_sarraceniaFR,Sarracenia alata var.atrorubra (red tube)-Deer park-Al SAL-009 B
+Sarracenia,alata,,alata f. viridescens,United States,Alabama,Washington,2_sarraceniaFR,Sarracenia alata var.alata f.viridescens Washington Co. AL SAL-022
+Sarracenia,alata,,,United States,Louisiana,Saint Tammany,2_BCP,"Sarracenia alata {St. Tammany Parish, Louisiana, USA}"
+Sarracenia,alata,,alata,United States,Mississippi,Jackson,2_sarraceniaFR,Sarracenia alata var.alata- red/heavy vein-Jackson Co-Mississippi SAL-015
+Sarracenia,flava,,,United States,Florida,Wakulla,2_BCP,"Sarracenia flava {Apalachicola National Forest, Wakulla Co., Florida, USA} [BCP ID# R-S7C]"
+Sarracenia,flava,,flava,United States,Florida,Bay,2_CK,"S. flava var. flava, Orange Tube, IP F39a, Sandy Creek"
+Sarracenia,flava,,ornata,United States,Florida,Gulf,2_CK,"S. flava var. ornata, F36 Phil Wilson, red throat, Apalachicola National Forest, Wewahitchka, Florida"
+Sarracenia,flava,,ornata,United States,Florida,Walton,2_CK,"S. flava var. ornata, Miramar, Florida"
+Sarracenia,flava,,atropurpurea,United States,Florida,Santa Rosa,2_sarraceniaFR,Sarracenia flava var.atropurpurea (All red form) Blackwater State Forest SFA-031 C
+Sarracenia,flava,,,United States,North Carolina,Brunswick,2_BCP,"Sarracenia flava {mixed forms, Green Swamp, Brunswick Co., NC, USA} "
+Sarracenia,flava,,maxima,United States,North Carolina,Brunswick,2_sarraceniaFR,Sarracenia flava var.maxima - Green swamp NC SFA-004 D
+Sarracenia,flava,,,United States,South Carolina,Lexington,2_BCP,"Sarracenia flava {cutthroat, near Edmund, SC, USA} "
+Sarracenia,flava,,,United States,South Carolina,Dorchester,2_BCP,"Sarracenia flava {Harleyville, Dorchester Co., South Carolina, USA} "
+Sarracenia,flava,,maxima,United States,South Carolina,Berkeley,2_BCP,"Sarracenia flava var. maxima {Francis Marion NF, Berkeley Co., SC, USA}"
+Sarracenia,flava,,cuprea,United States,South Carolina,Brunswick,2_CK,"S. flava var. cuprea, F 216, Green Swamp [Brunswick or Columbus Co.]"
+Sarracenia,flava,,flava,United States,Virginia,Dinwiddie,2_CK,"S. flava var. flava, Dinwidie"
+Sarracenia,flava,,flava,United States,Virginia,Dinwiddie,2_sarraceniaFR,Sarracenia flava var.flava - Shand's Bog SFA-001 L
+Sarracenia,leucophylla,,leucophylla,United States,Alabama,Covington,2_sarraceniaFR,Sarracenia leucophylla var.leucophylla-Conecuh NF (also Escambia Co. Could be possible). AL SLE-052
+Sarracenia,leucophylla,,,United States,Florida,Okaloosa,2_CK,"S. leucophylla, Eglin Reserve, Alabama, Clone A"
+Sarracenia,leucophylla,,,United States,Florida,Calhoun,2_CK,"S. leucophylla, L19 MK, purple & white giant form, Route 71, near Altha, Florida"
+Sarracenia,leucophylla,,leucophylla,United States,Florida,Santa Rosa,2_sarraceniaFR,Sarracenia leucophylla var.leucophylla - Gulf Breeze SLE-001 O
+Sarracenia,leucophylla,,leucophylla,United States,Florida,Wakulla,2_sarraceniaFR,"Sarracenia leucophylla var.leucophylla - Hosford, Apalachicola NF, Wakulla Co - F SLE-001 S"
+Sarracenia,leucophylla,,leucophylla,United States,Florida,,2_sarraceniaFR,Sarracenia leucophylla var.leucophylla Wilkerson Bog.FL
+Sarracenia,minor,,okefenokeensis,United States,Georgia,Ware,2_BCP,"Sarracenia minor var. okefenokeensis {Ware Co., Georgia, USA} [BCP ID# R-6M] "
+Sarracenia,minor,,okefenokeensis,United States,Georgia,Clinch,2_CK,"S. minor var. okefenokeensis, MK M16, Giant, North East"
+Sarracenia,minor,,,United States,Georgia,Brantley,2_CK,"S. minor, Brandley Co."
+Sarracenia,minor,,okefenokeensis,United States,,,2_CK,"S. minor var. okefenokeensis, Flamingo"
+Sarracenia,minor,,okefenokeensis,United States,,,2_CK,"S. minor var. okefenokeensis, Red Eyes"
+Sarracenia,oreophila,,,United States,Alabama,Marshall,2_BCP,"Sarracenia oreophila {Boaz Pond, Marshall Co., Alabama, USA}"
+Sarracenia,oreophila,,,United States,Alabama,De Kalb,2_BCP,"Sarracenia oreophila {De Kalb Co., Alabama, USA} [BCP ID# R-S8A]"
+Sarracenia,oreophila,,,United States,Alabama,Cherokee,2_sarraceniaFR,Sarracenia oreophila var.oreophila- Cherokee Co. AL SOR-001 H
+Sarracenia,oreophila,,,United States,Georgia,,2_BCP,"Sarracenia oreophila {large form, long lasting pitchers, Georgia, USA}"
+Sarracenia,oreophila,,,United States,North Carolina,Clay,2_BCP,"Sarracenia oreophila {narrow phyllodias, Clay Co., NC, USA}"
+Sarracenia,psittacina,,okefenokeensis,United States,Florida,Liberty,2_CK,"S. psittacina var. okefenokeensis, SL 13/1 WS Giant, dark red plant, Liberty Co. Florida"
+Sarracenia,psittacina,,,United States,,,2_CK,"S. psittacina, red plant. Black Flowers"
+Sarracenia,purpurea,purpurea,,United States,Maine,Washington,2_BCP,"Sarracenia purpurea subsp. purpurea {Grand Lake Stream, Washington Co., Maine, USA}"
+Sarracenia,purpurea,purpurea,,United States,New Jersey,Burlington,2_BCP,"Sarracenia purpurea {Pine Barrens, Burlington Co., New Jersey, USA} [BCP ID# KP34]"
+Sarracenia,purpurea,purpurea,,United States,New Jersey,Ocean,2_BCP,"Sarracenia purpurea {Pine Barrens, Ocean Co., New Jersey, USA} [BCP ID# KP33]"
+Sarracenia,purpurea,purpurea,,Canada,Ontario,Bruce,2_BCP,"Sarracenia purpurea subsp. purpurea var. ripicola {Dorcas Bay, Bruce Peninsula, Ontario, Canada} "
+Sarracenia,purpurea,purpurea,,Canada,Ontario,Haliburton,2_BCP,"Sarracenia purpurea subsp. purpurea {Spruce Bog, Algonquin Park, Ontario, Canada} (10s)"
+Sarracenia,purpurea,purpurea,,Canada,Ontario,Grey,2_CK,"S. purpurea ssp. purpurea, veinless form, Moss Lake, Grey Co., ON Co."
+Sarracenia,purpurea,purpurea,,United States,Pennsylvania,Monroe,2_BCP,"Sarracenia purpurea {Monroe Co., Pennsylvania, USA} [BCP ID# R-S5B]"
+Sarracenia,purpurea,venosa,burkei,United States,Florida,Calhoun,2_CK,"S. purpurea ssp. venosa var. burkei, Chipola Giant "
+Sarracenia,purpurea,venosa,burkei,United States,Florida,Liberty,2_CK,"S. purpurea ssp. venosa var. burkei f. luteola, Liberty Co., Florida"
+Sarracenia,purpurea,venosa,,United States,Georgia,Tattnall,2_CK,"S. purpurea ssp. venosa, Clone A x B cross pollinated, Tatnall, Georgia Co"
+Sarracenia,purpurea,venosa,,United States,North Carolina,Brunswick,2_BCP,"Sarracenia purpurea subsp. venosa {Green Swamp, Brunswick Co., NC, USA} [BCP ID# R-S5D]"
+Sarracenia,purpurea,venosa,,United States,North Carolina,Pender,2_BCP,"Sarracenia purpurea subsp. venosa {Hampstead, Pender Co., NC, USA}"
+Sarracenia,purpurea,venosa,,United States,North Carolina,Columbus,2_BCP,"Sarracenia purpurea subsp. venosa {near Old Dock, Columbus Co., NC, USA}"
+Sarracenia,purpurea,venosa,,United States,North Carolina,New Hanover,2_CK,"S. purpurea ssp. venosa, New Hannover"
+Sarracenia,purpurea,venosa,,United States,North Carolina,Brunswick,2_CK,"S. purpurea ssp. venosa, ãAll Red"" North of Supply (Green Swamp), North of Supply N.C.  --> Brunswick"
+Sarracenia,purpurea,venosa,,United States,North Carolina,Columbus,2_CK,"S. purpurea ssp. venosa, Near Old Dock, Columbus Co"
+Sarracenia,purpurea,venosa,,United States,Virginia,Caroline,2_CK,"S. purpurea ssp. venosa, Reedy Creek, Caroline Co., Virg."
+Sarracenia,rubra,alabamensis,,United States,Alabama,Autauga,2_BCP,"Sarracenia rubra ssp. alabamensis {Autauga Co., Alabama, USA}"
+Sarracenia,rubra,rubra,,United States,North Carolina,Brunswick,2_BCP,"Sarracenia rubra subsp. rubra {Brunswick Co., North Carolina, USA} [BCP ID# R-S1C]"
+Sarracenia,rubra,wherryi,,United States,Alabama,Washington,2_BCP,"Sarracenia rubra subsp. wherryi {Washington Co., Alabama, USA} [BCP ID# R-S1G]"
+Sarracenia,x moorei,,,United States,Florida,Santa Rosa,2_BCP,"Sarracenia flava x S. leucophylla {Yellow River, Santa Rosa Co., FL, USA}"
