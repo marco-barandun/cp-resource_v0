@@ -3,7 +3,7 @@ layout: post
 title: Sarracenia flava
 description: "The story description text goes here"
 category: sarracenia
-background: '/sarracenia/assets/images/bg-ecuador.png'
+background: '/sarracenia/assets/images/bg-sarracenia-flava.jpg'
 
 ---
 

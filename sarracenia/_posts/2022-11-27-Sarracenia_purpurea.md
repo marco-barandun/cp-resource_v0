@@ -3,7 +3,7 @@ layout: post
 title: Sarracenia purpurea
 description: "The story description text goes here"
 category: sarracenia
-background: '/sarracenia/assets/images/bg-ecuador.png'
+background: '/sarracenia/assets/images/bg-sarracenia-purpurea.jpg'
 
 ---
 
@@ -13,4 +13,4 @@ background: '/sarracenia/assets/images/bg-ecuador.png'
 
 ## Biogeography
 
-<iframe src="https://marco-barandun.github.io/cp-resource/expeditions/assets/maps/Sarracenia_purpurea.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="https://marco-barandun.github.io/cp-resource/sarracenia/assets/maps/Sarracenia_purpurea.html" height="600px" width="100%" style="border:none;"></iframe>

@@ -3,7 +3,7 @@ layout: post
 title: Sarracenia alata
 description: "The story description text goes here"
 category: sarracenia
-background: '/sarracenia/assets/images/bg-ecuador.png'
+background: '/sarracenia/assets/images/bg-sarracenia-alata.jpg'
 
 ---
 

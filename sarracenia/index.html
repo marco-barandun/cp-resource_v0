@@ -12,6 +12,7 @@ background: '/sarracenia/assets/images/bg-expeditions.jpg'
 
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+    <img src="{{ post.background | prepend: site.baseurl | replace: '//', '/' }}" alt="" class="blog-roll-image">
     <h2 class="post-title">{{ post.title }}</h2>
     {% if post.subtitle %}
     <h3 class="post-subtitle">{{ post.subtitle }}</h3>
